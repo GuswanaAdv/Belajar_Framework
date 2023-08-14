@@ -1,0 +1,9 @@
+VCS atau Version Control System adalah suatu software yang digunakan 
+untuk mengatur management suatu kumpulan file atau folder berbasis source code.
+Salah satunya ialah git. Selain dalam bentuk software, git juga sudah 
+dapat diakses secara online yang penyimpanannya dalam bentuk cloud computing melalui
+aplikasi web, diantaranya Github dan Gitlab. 
+
+Pembelajaran kali ini akan berfokus pada software git dan aplikasi web github.
+Selain itu pembelajaran ini akan mengikuti tahapan-tahapan yang mudah yakni melalui
+salah channel youtube yaitu Programmer_UNPAS.
