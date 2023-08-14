@@ -1,0 +1,9 @@
+Pada part yang pertama ini kita akan membahas mengenai apa itu Github
+dan beberapa istilah penting yang sering digunakan di Github. Pertama, 
+Github adalah salah aplikasi web yang menerapkan VCS dengan penyimpanan data
+di cload computing. Selanjutnya baik dalam penggunaan git ataupun github
+akan sering digunakan beberapa istilah penting di antaranya:
+1) Repository: adalah sebutan untuk suatu folder di dalam git 
+2) Branch:  adalah suatu cabang perubahan dari suatu file yang ingin dimodifikasi
+3) Commit: adalah istilah yang digunakan untuk melakukan penyimpanan perubahan suatu file
+4) Pull: adalah istilah yang digunakan untuk mengunggah suatu file ke dalam suatu repository
